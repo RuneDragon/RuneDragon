@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RuneDragon
+- 👀 I’m interested in programming and how computers work.
+- 🌱 I’m currently learning to program in Python, but am getting dared to try Coq (Oh boy...)
+- 💞️ I’m looking to collaborate on anything! I simply want to learn.
+- 📫 How to reach me: gcutcher@gmail.com or my Discord: Rune Dragon#5331
