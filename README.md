@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RuneDragon
 - 👀 I’m interested in programming and how computers work.
 - 🌱 I’m currently learning to program in Python, but am getting dared to try Coq (Oh boy...)
+- I have made a few games. One that was the most interesting was actually in scratch and seeing if I could do such: https://scratch.mit.edu/projects/328951802/
 - 💞️ I’m looking to collaborate on anything! I simply want to learn.
 - 📫 How to reach me: gcutcher@gmail.com or my Discord: Rune Dragon#5331
